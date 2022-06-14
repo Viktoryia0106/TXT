@@ -1,0 +1,4 @@
+First name: Viktoryia
+Last name: Hazim
+Number of pets: 1 
+Desired salary: 700$
