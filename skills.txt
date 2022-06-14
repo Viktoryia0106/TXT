@@ -1,0 +1,1 @@
+Skills on the course: Theory, HTTP, JSON, XML, API testing via Postman, Mobile testing, Command line, SQL basics, Postgres database,Scrum.
