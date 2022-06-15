@@ -18,3 +18,5 @@ Steps to Reproduce:
 5) Seen an error page “ORA1090 Exception: Insert values Error…”
 6) See the attached logs for more information (Attach more logs related to the bug..IF any)
 7) Also see the attached screenshot of the error page.
+Expected Result: On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”.
+(Attach ‘application crash’ screenshot. IF any)
